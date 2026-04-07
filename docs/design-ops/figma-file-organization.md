@@ -4,6 +4,11 @@
 
 Padronizar como projetos de produto são organizados no Figma para facilitar colaboração entre Design, Produto e Engenharia.
 
+## Referência visual de projeto
+
+Este padrão foi calibrado usando como referência visual o projeto compartilhado:
+[LM Mobilidade no Figma](https://www.figma.com/files/team/1450851516371517780/project/499329596?fuid=1553118248689460826).
+
 ## Regra
 
 Todo projeto deve ter um arquivo `Prototype` contendo:
